@@ -1,0 +1,1 @@
+export { LogoInfo } from './Logo'
